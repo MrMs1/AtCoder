@@ -4,7 +4,7 @@ fun main() {
     println(binarySearch(1, n, nums, x))
 }
 
-fun binarySearch(
+private fun binarySearch(
     start: Int,
     max: Int,
     list: List<Int>,
